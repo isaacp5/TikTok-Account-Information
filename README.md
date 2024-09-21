@@ -1,2 +1,2 @@
 # TikTok-Account-Information
-This Python script retrieves a TikTok account's creation date and key information by using the account ID.
+This Python script allows you to retrieve the creation date and other key details of a TikTok account by using the account ID. The script first fetches the TikTok account ID, which can then be used to extract important data about the TikTok user, including creation date, bio, follower count, and more. Ideal for developers and analysts looking to gather TikTok profile information programmatically.
